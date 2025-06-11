@@ -4,7 +4,6 @@ A simple browser extension to view and generate PDF links for Scribd documents.
 
 ![Scribd Tool Screenshot](./screenshot.JPG)
 
-*(Save the image as `screenshot.png` in your project folder)*
 
 ---
 
